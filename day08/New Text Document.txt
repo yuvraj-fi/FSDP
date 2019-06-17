@@ -1,0 +1,174 @@
+<table class="table">
+            <thead>
+                <tr class="table-head">
+                    <th class="table-head__cell">Pos</th>
+                    <th class="table-head__cell rankings-table__team u-text-left">Team</th>
+                    <th class="table-head__cell">Weighted Matches</th>
+                    <th class="table-head__cell">Points</th>
+                    <th class="table-head__cell u-text-right rating">Rating</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="table-body rankings-table__hero" data-team-id="11">
+                    <td class="table-body__cell table-body__cell--position">1</td>
+                    <td class="table-body__cell rankings-table__team u-text-left">
+                        <span class="flag-15 table-body_logo ENG u-show-phablet u-hide-mobile"></span>
+                        <span class="flag-30 table-body_logo ENG u-hide-phablet"></span>
+                        England
+                    </td>
+                    <td class="table-body__cell">43</td>
+                    <td class="table-body__cell">5,372</td>
+                    <td class="table-body__cell u-text-right rating">125</td>
+                </tr>
+                <tr class="table-body" data-team-id="14">
+                    <td class="table-body__cell table-body__cell--position">2</td>
+                    <td class="table-body__cell rankings-table__team u-text-left">
+                        <span class="flag-15 table-body_logo IND u-hide-mobile"></span>
+                        India
+                    </td>
+                    <td class="table-body__cell">47</td>
+                    <td class="table-body__cell">5,669</td>
+                    <td class="table-body__cell u-text-right rating">121</td>
+                </tr>
+                <tr class="table-body" data-team-id="19">
+                    <td class="table-body__cell table-body__cell--position">3</td>
+                    <td class="table-body__cell rankings-table__team u-text-left">
+                        <span class="flag-15 table-body_logo SA u-hide-mobile"></span>
+                        South Africa
+                    </td>
+                    <td class="table-body__cell">39</td>
+                    <td class="table-body__cell">4,488</td>
+                    <td class="table-body__cell u-text-right rating">115</td>
+                </tr>
+                <tr class="table-body" data-team-id="16">
+                    <td class="table-body__cell table-body__cell--position">4</td>
+                    <td class="table-body__cell rankings-table__team u-text-left">
+                        <span class="flag-15 table-body_logo NZ u-hide-mobile"></span>
+                        New Zealand
+                    </td>
+                    <td class="table-body__cell">33</td>
+                    <td class="table-body__cell">3,729</td>
+                    <td class="table-body__cell u-text-right rating">113</td>
+                </tr>
+                <tr class="table-body" data-team-id="15">
+                    <td class="table-body__cell table-body__cell--position">5</td>
+                    <td class="table-body__cell rankings-table__team u-text-left">
+                        <span class="flag-15 table-body_logo AUS u-hide-mobile"></span>
+                        Australia
+                    </td>
+                    <td class="table-body__cell">40</td>
+                    <td class="table-body__cell">4,342</td>
+                    <td class="table-body__cell u-text-right rating">109</td>
+                </tr>
+                <tr class="table-body" data-team-id="20">
+                    <td class="table-body__cell table-body__cell--position">6</td>
+                    <td class="table-body__cell rankings-table__team u-text-left">
+                        <span class="flag-15 table-body_logo PAK u-hide-mobile"></span>
+                        Pakistan
+                    </td>
+                    <td class="table-body__cell">41</td>
+                    <td class="table-body__cell">3,846</td>
+                    <td class="table-body__cell u-text-right rating">94</td>
+                </tr>
+                <tr class="table-body" data-team-id="22">
+                    <td class="table-body__cell table-body__cell--position">7</td>
+                    <td class="table-body__cell rankings-table__team u-text-left">
+                        <span class="flag-15 table-body_logo BAN u-hide-mobile"></span>
+                        Bangladesh
+                    </td>
+                    <td class="table-body__cell">35</td>
+                    <td class="table-body__cell">3,155</td>
+                    <td class="table-body__cell u-text-right rating">90</td>
+                </tr>
+                <tr class="table-body" data-team-id="21">
+                    <td class="table-body__cell table-body__cell--position">8</td>
+                    <td class="table-body__cell rankings-table__team u-text-left">
+                        <span class="flag-15 table-body_logo WI u-hide-mobile"></span>
+                        West Indies
+                    </td>
+                    <td class="table-body__cell">39</td>
+                    <td class="table-body__cell">3,022</td>
+                    <td class="table-body__cell u-text-right rating">77</td>
+                </tr>
+                <tr class="table-body" data-team-id="13">
+                    <td class="table-body__cell table-body__cell--position">9</td>
+                    <td class="table-body__cell rankings-table__team u-text-left">
+                        <span class="flag-15 table-body_logo SL u-hide-mobile"></span>
+                        Sri Lanka
+                    </td>
+                    <td class="table-body__cell">43</td>
+                    <td class="table-body__cell">3,266</td>
+                    <td class="table-body__cell u-text-right rating">76</td>
+                </tr>
+                <tr class="table-body" data-team-id="17">
+                    <td class="table-body__cell table-body__cell--position">10</td>
+                    <td class="table-body__cell rankings-table__team u-text-left">
+                        <span class="flag-15 table-body_logo AFG u-hide-mobile"></span>
+                        Afghanistan
+                    </td>
+                    <td class="table-body__cell">31</td>
+                    <td class="table-body__cell">1,961</td>
+                    <td class="table-body__cell u-text-right rating">63</td>
+                </tr>
+                <tr class="table-body" data-team-id="18">
+                    <td class="table-body__cell table-body__cell--position">11</td>
+                    <td class="table-body__cell rankings-table__team u-text-left">
+                        <span class="flag-15 table-body_logo ZIM u-hide-mobile"></span>
+                        Zimbabwe
+                    </td>
+                    <td class="table-body__cell">30</td>
+                    <td class="table-body__cell">1,609</td>
+                    <td class="table-body__cell u-text-right rating">54</td>
+                </tr>
+                <tr class="table-body" data-team-id="12">
+                    <td class="table-body__cell table-body__cell--position">12</td>
+                    <td class="table-body__cell rankings-table__team u-text-left">
+                        <span class="flag-15 table-body_logo IRE u-hide-mobile"></span>
+                        Ireland
+                    </td>
+                    <td class="table-body__cell">26</td>
+                    <td class="table-body__cell">1,176</td>
+                    <td class="table-body__cell u-text-right rating">45</td>
+                </tr>
+                <tr class="table-body" data-team-id="69">
+                    <td class="table-body__cell table-body__cell--position">13</td>
+                    <td class="table-body__cell rankings-table__team u-text-left">
+                        <span class="flag-15 table-body_logo SCO u-hide-mobile"></span>
+                        Scotland
+                    </td>
+                    <td class="table-body__cell">10</td>
+                    <td class="table-body__cell">373</td>
+                    <td class="table-body__cell u-text-right rating">37</td>
+                </tr>
+                <tr class="table-body" data-team-id="125">
+                    <td class="table-body__cell table-body__cell--position">14</td>
+                    <td class="table-body__cell rankings-table__team u-text-left">
+                        <span class="flag-15 table-body_logo NEP u-hide-mobile"></span>
+                        Nepal
+                    </td>
+                    <td class="table-body__cell">8</td>
+                    <td class="table-body__cell">152</td>
+                    <td class="table-body__cell u-text-right rating">19</td>
+                </tr>
+                <tr class="table-body" data-team-id="155">
+                    <td class="table-body__cell table-body__cell--position">15</td>
+                    <td class="table-body__cell rankings-table__team u-text-left">
+                        <span class="flag-15 table-body_logo UAE u-hide-mobile"></span>
+                        UAE
+                    </td>
+                    <td class="table-body__cell">15</td>
+                    <td class="table-body__cell">144</td>
+                    <td class="table-body__cell u-text-right rating">10</td>
+                </tr>
+                <tr class="table-body" data-team-id="133">
+                    <td class="table-body__cell table-body__cell--position">16</td>
+                    <td class="table-body__cell rankings-table__team u-text-left">
+                        <span class="flag-15 table-body_logo PNG u-hide-mobile"></span>
+                        Papua New Guinea
+                    </td>
+                    <td class="table-body__cell">9</td>
+                    <td class="table-body__cell">50</td>
+                    <td class="table-body__cell u-text-right rating">6</td>
+                </tr>
+            </tbody>
+        </table>
